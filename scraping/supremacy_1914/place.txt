@@ -1,5 +1,0 @@
-id = func_newspaper_ranking_table_container
-class = newspaper_ranking_single func_overview_content
-
-id = newspaper_ranking_single
-class = func_scrollable newspaper_ranking func_overview_content overview_content newspaper_ranking_single
