@@ -30,9 +30,9 @@ plt.show()
 
 # read the mariage date stored on github
 mariage_data = pd.read_csv('https://raw.githubusercontent.com/holtzy/The-Python-Graph-Gallery/master/static/data/State_mariage_rate.csv')
-print(geo_data.columns)
+
 # add a new column to the geo dataframe that will be used for joining
-geo_data['state'] = geo_data['google_name'].str.replace(' \(United States\)', '')
+geo_data['state'] = geo_data['google_name'].str.replace(' (United States)', '')
 
 # merge the mariage dataset with geospatial information
 geo_data = geo_data.set_index('state').join(mariage_data.set_index('state'))
