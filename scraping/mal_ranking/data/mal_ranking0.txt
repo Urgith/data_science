@@ -28,7 +28,7 @@
 
 <meta name="referrer" content="default"><link rel="manifest" href="/manifest.json">
 
-<meta name='csrf_token' content='4410b36922c9e33fb8154a4cfcecbd359e57ff35'>
+<meta name='csrf_token' content='dc342eb731c12671a2e6d2afefcaee2b0b1bbfca'>
 <meta name="fo-verify" content="1e927243-8e02-48e3-b098-a7b78c5b4e36"><meta name="viewport" content="initial-scale=1" /><link rel="preload" as="style" href="https://cdn.myanimelist.net/static/assets/css/pc/style-4b35a9dda9.css" />
 <link rel="preload" as="style" href="https://cdn.myanimelist.net/static/assets/css/pc/dark-2d94c572fb.css" />
 <link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/header-f993536e06.js" />
@@ -54,8 +54,8 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
     <link href="https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap" rel="stylesheet">
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1473193330168238" crossorigin="anonymous"></script>
-<script type="text/javascript" src="https://cdn.myanimelist.net/js/quantcast_choice.js?v=1752324073"></script>
-<script type="text/javascript" src="https://cdn.myanimelist.net/js/cmp.js?v=1752324073"></script>
+<script type="text/javascript" src="https://cdn.myanimelist.net/js/quantcast_choice.js?v=1752332675"></script>
+<script type="text/javascript" src="https://cdn.myanimelist.net/js/cmp.js?v=1752332675"></script>
 <script src="https://btloader.com/tag?o=5110059113906176&upapi=true" async></script> <script src="https://hb.vntsm.com/v3/live/ad-manager.min.js" type="text/javascript" data-site-id="65a1835ac178db4aeb9540ce" data-mode="scan" async></script>
 <script>
   var clientDarkMode = window.matchMedia("(prefers-color-scheme:dark)").matches;
@@ -81,7 +81,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
 
 </head>
 
-<body onload=" " class="page-common "data-ms="true" data-country-code="PL"  data-time="1752324073" >
+<body onload=" " class="page-common "data-ms="true" data-country-code="PL"  data-time="1752332675" >
 <div id="myanimelist">
 
     
@@ -109,10 +109,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
         });
     }
 </script><div class="banner-header-anime-straming header-mini-banner" style="right:480px;">
-  <a href="https://mxj.myanimelist.net/" onclick="trackOutboundLink('https://mxj.myanimelist.net/')">
-  <img src="/c/img/images/event/20210527_MALxJAPAN_MiniBanner/500x72_miniBanner_B.png" width="250" height="36" alt="MAL x JAPAN" title="MAL x JAPAN">
-</a>
-
+  <a class="ga-click" href="https://mxj.myanimelist.net/readthismanga/2025?utm_source=MAL&utm_medium=all_TMB_readthismanga-2025-result" onclick="trackOutboundLink(''https://mxj.myanimelist.net/readthismanga/2025?utm_source=MAL&utm_medium=all_TMB_readthismanga-2025-result'')" data-ga-click-type="mb" data-ga-click-param="mini_banner_20250331_ysrtm2025_result"> <img class="ga-impression" src="/c/img/resources/mb/mini_banner_20250331_ysrtm2025_result.png" width="250" height="36" alt="You Should Read This Manga" title="You Should Read This Manga" data-ga-impression-type="mb" data-ga-impression-param="mini_banner_20250331_ysrtm2025_result"> </a>
 </div>
 
 
@@ -370,7 +367,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
 <div class="di-ib clearfix"><h3 class="fl-l fs14 fw-b anime_ranking_h3"><a href="https://myanimelist.net/anime/30276/One_Punch_Man" id="#area30276" rel="#info30276" class="hoverinfo_trigger">One Punch Man</a></h3><div class="icon-watch2"><a href="https://myanimelist.net/anime/30276/One_Punch_Man/video" class="mal-icon ml8 ga-click" title="Watch Episode Video"><i class="malicon malicon-movie-episode"></i></a></div></div><br><div class="information di-ib mt4">
         TV (12 eps)<br>
         Oct 2015 - Dec 2015<br>
-        3,403,157 members
+        3,403,341 members
       </div><div
   class="bookstore-information ga-impression"
    data-ga-impression-type="bs_animeR-desktop-rank"    data-ga-impression-param="2|265e08ab-cac0-452d-ba0c-c0bf58b54675" ><a
@@ -511,7 +508,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
 <div class="di-ib clearfix"><h3 class="fl-l fs14 fw-b anime_ranking_h3"><a href="https://myanimelist.net/anime/31964/Boku_no_Hero_Academia" id="#area31964" rel="#info31964" class="hoverinfo_trigger">Boku no Hero Academia</a></h3><div class="icon-watch2"><a href="https://myanimelist.net/anime/31964/Boku_no_Hero_Academia/video" class="mal-icon ml8 ga-click" title="Watch Episode Video"><i class="malicon malicon-movie-episode"></i></a></div></div><br><div class="information di-ib mt4">
         TV (13 eps)<br>
         Apr 2016 - Jun 2016<br>
-        3,187,569 members
+        3,187,766 members
       </div><div
   class="bookstore-information ga-impression"
    data-ga-impression-type="bs_animeR-desktop-rank"    data-ga-impression-param="2|764c22eb-2a7a-42d3-8e27-a3f10b41e016" ><a
@@ -635,7 +632,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
 <div class="di-ib clearfix"><h3 class="fl-l fs14 fw-b anime_ranking_h3"><a href="https://myanimelist.net/anime/22319/Tokyo_Ghoul" id="#area22319" rel="#info22319" class="hoverinfo_trigger">Tokyo Ghoul</a></h3><div class="icon-watch2"><a href="https://myanimelist.net/anime/22319/Tokyo_Ghoul/video" class="mal-icon ml8 ga-click" title="Watch Episode Video"><i class="malicon malicon-movie-episode"></i></a></div></div><br><div class="information di-ib mt4">
         TV (12 eps)<br>
         Jul 2014 - Sep 2014<br>
-        2,962,445 members
+        2,962,620 members
       </div><div
   class="bookstore-information ga-impression"
    data-ga-impression-type="bs_animeR-desktop-rank"    data-ga-impression-param="2|df21cfbd-f301-43f9-a5f0-62c96a9c3313" ><a
@@ -682,7 +679,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
 <div class="di-ib clearfix"><h3 class="fl-l fs14 fw-b anime_ranking_h3"><a href="https://myanimelist.net/anime/32281/Kimi_no_Na_wa" id="#area32281" rel="#info32281" class="hoverinfo_trigger">Kimi no Na wa.</a></h3><div class="icon-watch2"><a href="https://myanimelist.net/anime/32281/Kimi_no_Na_wa/video" class="mal-icon ml8 ga-click" title="Watch Episode Video"><i class="malicon malicon-movie-episode"></i></a></div></div><br><div class="information di-ib mt4">
         Movie (1 eps)<br>
         Aug 2016 - Aug 2016<br>
-        2,916,084 members
+        2,916,277 members
       </div><div
   class="bookstore-information ga-impression"
    data-ga-impression-type="bs_animeR-desktop-rank"    data-ga-impression-param="2|db5f14ca-30f8-47c9-95ef-0e7f5e94a3bb" ><a
@@ -729,7 +726,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
 <div class="di-ib clearfix"><h3 class="fl-l fs14 fw-b anime_ranking_h3"><a href="https://myanimelist.net/anime/25777/Shingeki_no_Kyojin_Season_2" id="#area25777" rel="#info25777" class="hoverinfo_trigger">Shingeki no Kyojin Season 2</a></h3><div class="icon-watch2"><a href="https://myanimelist.net/anime/25777/Shingeki_no_Kyojin_Season_2/video" class="mal-icon ml8 ga-click" title="Watch Episode Video"><i class="malicon malicon-movie-episode"></i></a></div></div><br><div class="information di-ib mt4">
         TV (12 eps)<br>
         Apr 2017 - Jun 2017<br>
-        2,899,748 members
+        2,899,949 members
       </div><div
   class="bookstore-information ga-impression"
    data-ga-impression-type="bs_animeR-desktop-rank"    data-ga-impression-param="2|3f2fbe38-e80e-4d5e-9e7d-03d0451b8d50" ><a
@@ -947,7 +944,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
 <div class="di-ib clearfix"><h3 class="fl-l fs14 fw-b anime_ranking_h3"><a href="https://myanimelist.net/anime/21/One_Piece" id="#area21" rel="#info21" class="hoverinfo_trigger">One Piece</a></h3><div class="icon-watch2"><a href="https://myanimelist.net/anime/21/One_Piece/video" class="mal-icon ml8 ga-click" title="Watch Episode Video"><i class="malicon malicon-movie-episode"></i></a></div></div><br><div class="information di-ib mt4">
         TV (? eps)<br>
         Oct 1999 - <br>
-        2,552,119 members
+        2,552,146 members
       </div><div
   class="bookstore-information ga-impression"
    data-ga-impression-type="bs_animeR-desktop-rank"    data-ga-impression-param="2|354bfddc-975d-4115-ab52-6306ec63c286" ><a
@@ -1031,6 +1028,53 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
     <span class="lightLink top-anime-rank-text rank2">19</span>
   </td>
     <td class="title al va-t word-break">
+    <a class="hoverinfo_trigger fl-l ml12 mr8" href="https://myanimelist.net/anime/28851/Koe_no_Katachi" id="#area28851" rel="#info28851">
+      <img width="50" height="70" alt="Anime: Koe no Katachi" class="lazyload" border="0" data-src="https://cdn.myanimelist.net/r/50x70/images/anime/1122/96435.jpg?s=56d2750d600af93a5d326daec7748cae" data-srcset="https://cdn.myanimelist.net/r/50x70/images/anime/1122/96435.jpg?s=56d2750d600af93a5d326daec7748cae 1x, https://cdn.myanimelist.net/r/100x140/images/anime/1122/96435.jpg?s=ba7b364bdcb787802fa6be905e944d77 2x" />
+    </a>
+
+    <div class="detail"><div id="area28851">
+  <div id="info28851" rel="a28851" class="hoverinfo"></div>
+</div>
+<div class="di-ib clearfix"><h3 class="fl-l fs14 fw-b anime_ranking_h3"><a href="https://myanimelist.net/anime/28851/Koe_no_Katachi" id="#area28851" rel="#info28851" class="hoverinfo_trigger">Koe no Katachi</a></h3><div class="icon-watch-pv2"><a href="https://myanimelist.net/anime/28851/Koe_no_Katachi/video" class="mal-icon ml8 ga-click" title="Watch Promotional Video"><i class="malicon malicon-movie-pv"></i></a></div></div><br><div class="information di-ib mt4">
+        Movie (1 eps)<br>
+        Sep 2016 - Sep 2016<br>
+        2,499,468 members
+      </div><div
+  class="bookstore-information ga-impression"
+   data-ga-impression-type="bs_animeR-desktop-rank"    data-ga-impression-param="1|497" ><a
+    class="link ga-click"
+    href="https://myanimelist.net/store/manga_volume/497/A_Silent_Voice_Volume_1?utm_source=mal&amp;utm_medium=animeR-desktop-rank"
+    target="_blank"
+     data-ga-click-type="bs_animeR-desktop-rank"      data-ga-click-param="1|497"   ><i class="fa-solid fa-cart-shopping mr4" aria-hidden="true"></i><span class="bookstore-name">Manga Store</span><span class="bookstore-volume">Volume 1</span><span class="bookstore-price">€10.99</span></a><a
+      class="bookstore-preview-link bookstore-preview-link-1  ga-click"
+      href="https://myanimelist.net/store/viewer/1/497/preview?utm_source=mal&amp;utm_medium=animeR-desktop-rank"
+      target="_blank"
+      data-bookstore-id="1"
+      data-manga-id="56805"
+      data-item-id="497"
+      data-item-collection-id="33"
+      data-is-sale="0"
+       data-ga-click-type="bs_animeR-desktop-rank"        data-ga-click-param="1|497"     ><i class="bookstore-icon fa-solid fa-book-open-reader mr4" aria-hidden="true" title="Manga Store"></i>Read Sample
+    </a></div>
+    </div>
+  </td>
+
+    <td class="score ac fs14"><div class="js-top-ranking-score-col di-ib al"><i class="icon-score-star fa-solid fa-star mr4 on"></i><span class="text on score-label score-8">8.93</span></div>
+  </td>
+
+    <td class="your-score ac fs14">
+    <div class="js-top-ranking-your-score-col di-ib al">      <a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Ftopanime.php%3Ftype%3Dbypopularity" class=" ga-impression" onclick="dataLayer.push({'event':'ga-js-event','ga-js-event-type':''})" data-ga-click-type= data-ga-impression-type=><i class="icon-score-star fa-solid fa-star mr4 "></i><span class="text  score-label score-na">N/A</span></a>
+</div>
+  </td>
+
+    <td class="status ac">                    <a href="https://myanimelist.net/ownlist/anime/add?selected_series_id=28851&amp;hideLayout=1&amp;click_type=anime_ranking" class="js-form-user-status js-form-user-status-btn Lightbox_AddEdit btn-addEdit-large btn-anime-watch-status js-anime-watch-status notinmylist ga-impression" onclick="dataLayer.push({'event':'ga-js-event','ga-js-event-type':'anime_ranking'})" data-ga-click-type=anime_ranking data-ga-impression-type=anime_ranking>Add to My List</a></td>
+</tr>
+
+<tr class="ranking-list">
+    <td class="rank ac" valign="top">
+    <span class="lightLink top-anime-rank-text rank2">20</span>
+  </td>
+    <td class="title al va-t word-break">
     <a class="hoverinfo_trigger fl-l ml12 mr8" href="https://myanimelist.net/anime/19815/No_Game_No_Life" id="#area19815" rel="#info19815">
       <img width="50" height="70" alt="Anime: No Game No Life" class="lazyload" border="0" data-src="https://cdn.myanimelist.net/r/50x70/images/anime/1074/111944.jpg?s=3d63ffec8cd2a7f1e00e8dc15ef534f5" data-srcset="https://cdn.myanimelist.net/r/50x70/images/anime/1074/111944.jpg?s=3d63ffec8cd2a7f1e00e8dc15ef534f5 1x, https://cdn.myanimelist.net/r/100x140/images/anime/1074/111944.jpg?s=a6e85c572e09c1ad6398d7d9db5d7db8 2x" />
     </a>
@@ -1071,53 +1115,6 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
   </td>
 
     <td class="status ac">                    <a href="https://myanimelist.net/ownlist/anime/add?selected_series_id=19815&amp;hideLayout=1&amp;click_type=anime_ranking" class="js-form-user-status js-form-user-status-btn Lightbox_AddEdit btn-addEdit-large btn-anime-watch-status js-anime-watch-status notinmylist ga-impression" onclick="dataLayer.push({'event':'ga-js-event','ga-js-event-type':'anime_ranking'})" data-ga-click-type=anime_ranking data-ga-impression-type=anime_ranking>Add to My List</a></td>
-</tr>
-
-<tr class="ranking-list">
-    <td class="rank ac" valign="top">
-    <span class="lightLink top-anime-rank-text rank2">20</span>
-  </td>
-    <td class="title al va-t word-break">
-    <a class="hoverinfo_trigger fl-l ml12 mr8" href="https://myanimelist.net/anime/28851/Koe_no_Katachi" id="#area28851" rel="#info28851">
-      <img width="50" height="70" alt="Anime: Koe no Katachi" class="lazyload" border="0" data-src="https://cdn.myanimelist.net/r/50x70/images/anime/1122/96435.jpg?s=56d2750d600af93a5d326daec7748cae" data-srcset="https://cdn.myanimelist.net/r/50x70/images/anime/1122/96435.jpg?s=56d2750d600af93a5d326daec7748cae 1x, https://cdn.myanimelist.net/r/100x140/images/anime/1122/96435.jpg?s=ba7b364bdcb787802fa6be905e944d77 2x" />
-    </a>
-
-    <div class="detail"><div id="area28851">
-  <div id="info28851" rel="a28851" class="hoverinfo"></div>
-</div>
-<div class="di-ib clearfix"><h3 class="fl-l fs14 fw-b anime_ranking_h3"><a href="https://myanimelist.net/anime/28851/Koe_no_Katachi" id="#area28851" rel="#info28851" class="hoverinfo_trigger">Koe no Katachi</a></h3><div class="icon-watch-pv2"><a href="https://myanimelist.net/anime/28851/Koe_no_Katachi/video" class="mal-icon ml8 ga-click" title="Watch Promotional Video"><i class="malicon malicon-movie-pv"></i></a></div></div><br><div class="information di-ib mt4">
-        Movie (1 eps)<br>
-        Sep 2016 - Sep 2016<br>
-        2,499,279 members
-      </div><div
-  class="bookstore-information ga-impression"
-   data-ga-impression-type="bs_animeR-desktop-rank"    data-ga-impression-param="1|497" ><a
-    class="link ga-click"
-    href="https://myanimelist.net/store/manga_volume/497/A_Silent_Voice_Volume_1?utm_source=mal&amp;utm_medium=animeR-desktop-rank"
-    target="_blank"
-     data-ga-click-type="bs_animeR-desktop-rank"      data-ga-click-param="1|497"   ><i class="fa-solid fa-cart-shopping mr4" aria-hidden="true"></i><span class="bookstore-name">Manga Store</span><span class="bookstore-volume">Volume 1</span><span class="bookstore-price">€10.99</span></a><a
-      class="bookstore-preview-link bookstore-preview-link-1  ga-click"
-      href="https://myanimelist.net/store/viewer/1/497/preview?utm_source=mal&amp;utm_medium=animeR-desktop-rank"
-      target="_blank"
-      data-bookstore-id="1"
-      data-manga-id="56805"
-      data-item-id="497"
-      data-item-collection-id="33"
-      data-is-sale="0"
-       data-ga-click-type="bs_animeR-desktop-rank"        data-ga-click-param="1|497"     ><i class="bookstore-icon fa-solid fa-book-open-reader mr4" aria-hidden="true" title="Manga Store"></i>Read Sample
-    </a></div>
-    </div>
-  </td>
-
-    <td class="score ac fs14"><div class="js-top-ranking-score-col di-ib al"><i class="icon-score-star fa-solid fa-star mr4 on"></i><span class="text on score-label score-8">8.93</span></div>
-  </td>
-
-    <td class="your-score ac fs14">
-    <div class="js-top-ranking-your-score-col di-ib al">      <a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Ftopanime.php%3Ftype%3Dbypopularity" class=" ga-impression" onclick="dataLayer.push({'event':'ga-js-event','ga-js-event-type':''})" data-ga-click-type= data-ga-impression-type=><i class="icon-score-star fa-solid fa-star mr4 "></i><span class="text  score-label score-na">N/A</span></a>
-</div>
-  </td>
-
-    <td class="status ac">                    <a href="https://myanimelist.net/ownlist/anime/add?selected_series_id=28851&amp;hideLayout=1&amp;click_type=anime_ranking" class="js-form-user-status js-form-user-status-btn Lightbox_AddEdit btn-addEdit-large btn-anime-watch-status js-anime-watch-status notinmylist ga-impression" onclick="dataLayer.push({'event':'ga-js-event','ga-js-event-type':'anime_ranking'})" data-ga-click-type=anime_ranking data-ga-impression-type=anime_ranking>Add to My List</a></td>
 </tr>
 
 <tr class="ranking-list">
@@ -1212,7 +1209,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
 <div class="di-ib clearfix"><h3 class="fl-l fs14 fw-b anime_ranking_h3"><a href="https://myanimelist.net/anime/31240/Re_Zero_kara_Hajimeru_Isekai_Seikatsu" id="#area31240" rel="#info31240" class="hoverinfo_trigger">Re:Zero kara Hajimeru Isekai Seikatsu</a></h3><div class="icon-watch2"><a href="https://myanimelist.net/anime/31240/Re_Zero_kara_Hajimeru_Isekai_Seikatsu/video" class="mal-icon ml8 ga-click" title="Watch Episode Video"><i class="malicon malicon-movie-episode"></i></a></div></div><br><div class="information di-ib mt4">
         TV (25 eps)<br>
         Apr 2016 - Sep 2016<br>
-        2,357,431 members
+        2,357,595 members
       </div><div
   class="bookstore-information ga-impression"
    data-ga-impression-type="bs_animeR-desktop-rank"    data-ga-impression-param="1|4903" ><a
@@ -1259,7 +1256,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
 <div class="di-ib clearfix"><h3 class="fl-l fs14 fw-b anime_ranking_h3"><a href="https://myanimelist.net/anime/23273/Shigatsu_wa_Kimi_no_Uso" id="#area23273" rel="#info23273" class="hoverinfo_trigger">Shigatsu wa Kimi no Uso</a></h3><div class="icon-watch2"><a href="https://myanimelist.net/anime/23273/Shigatsu_wa_Kimi_no_Uso/video" class="mal-icon ml8 ga-click" title="Watch Episode Video"><i class="malicon malicon-movie-episode"></i></a></div></div><br><div class="information di-ib mt4">
         TV (22 eps)<br>
         Oct 2014 - Mar 2015<br>
-        2,340,390 members
+        2,340,518 members
       </div><div
   class="bookstore-information ga-impression"
    data-ga-impression-type="bs_animeR-desktop-rank"    data-ga-impression-param="2|2d32bafc-f0af-44c6-a6dc-bde7e13f5dd5" ><a
@@ -1430,7 +1427,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
 <div class="di-ib clearfix"><h3 class="fl-l fs14 fw-b anime_ranking_h3"><a href="https://myanimelist.net/anime/32182/Mob_Psycho_100" id="#area32182" rel="#info32182" class="hoverinfo_trigger">Mob Psycho 100</a></h3><div class="icon-watch2"><a href="https://myanimelist.net/anime/32182/Mob_Psycho_100/video" class="mal-icon ml8 ga-click" title="Watch Episode Video"><i class="malicon malicon-movie-episode"></i></a></div></div><br><div class="information di-ib mt4">
         TV (12 eps)<br>
         Jul 2016 - Sep 2016<br>
-        2,225,389 members
+        2,225,529 members
       </div>    </div>
   </td>
 
@@ -1460,7 +1457,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
 <div class="di-ib clearfix"><h3 class="fl-l fs14 fw-b anime_ranking_h3"><a href="https://myanimelist.net/anime/31043/Boku_dake_ga_Inai_Machi" id="#area31043" rel="#info31043" class="hoverinfo_trigger">Boku dake ga Inai Machi</a></h3><div class="icon-watch2"><a href="https://myanimelist.net/anime/31043/Boku_dake_ga_Inai_Machi/video" class="mal-icon ml8 ga-click" title="Watch Episode Video"><i class="malicon malicon-movie-episode"></i></a></div></div><br><div class="information di-ib mt4">
         TV (12 eps)<br>
         Jan 2016 - Mar 2016<br>
-        2,215,784 members
+        2,215,931 members
       </div><div
   class="bookstore-information ga-impression"
    data-ga-impression-type="bs_animeR-desktop-rank"    data-ga-impression-param="2|e1f4204c-2dd0-4046-8a5b-dff5ad07c29c" ><a
@@ -1507,7 +1504,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
 <div class="di-ib clearfix"><h3 class="fl-l fs14 fw-b anime_ranking_h3"><a href="https://myanimelist.net/anime/22199/Akame_ga_Kill" id="#area22199" rel="#info22199" class="hoverinfo_trigger">Akame ga Kill!</a></h3><div class="icon-watch2"><a href="https://myanimelist.net/anime/22199/Akame_ga_Kill/video" class="mal-icon ml8 ga-click" title="Watch Episode Video"><i class="malicon malicon-movie-episode"></i></a></div></div><br><div class="information di-ib mt4">
         TV (24 eps)<br>
         Jul 2014 - Dec 2014<br>
-        2,199,269 members
+        2,199,386 members
       </div><div
   class="bookstore-information ga-impression"
    data-ga-impression-type="bs_animeR-desktop-rank"    data-ga-impression-param="2|4618da26-cb95-44b6-8799-6b2857b8de7c" ><a
@@ -1631,7 +1628,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
 <div class="di-ib clearfix"><h3 class="fl-l fs14 fw-b anime_ranking_h3"><a href="https://myanimelist.net/anime/23755/Nanatsu_no_Taizai" id="#area23755" rel="#info23755" class="hoverinfo_trigger">Nanatsu no Taizai</a></h3><div class="icon-watch-pv2"><a href="https://myanimelist.net/anime/23755/Nanatsu_no_Taizai/video" class="mal-icon ml8 ga-click" title="Watch Promotional Video"><i class="malicon malicon-movie-pv"></i></a></div></div><br><div class="information di-ib mt4">
         TV (24 eps)<br>
         Oct 2014 - Mar 2015<br>
-        2,150,314 members
+        2,150,431 members
       </div><div
   class="bookstore-information ga-impression"
    data-ga-impression-type="bs_animeR-desktop-rank"    data-ga-impression-param="2|84407aeb-c11e-4008-8d09-215f86409add" ><a
@@ -1678,7 +1675,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
 <div class="di-ib clearfix"><h3 class="fl-l fs14 fw-b anime_ranking_h3"><a href="https://myanimelist.net/anime/24833/Ansatsu_Kyoushitsu" id="#area24833" rel="#info24833" class="hoverinfo_trigger">Ansatsu Kyoushitsu</a></h3><div class="icon-watch2"><a href="https://myanimelist.net/anime/24833/Ansatsu_Kyoushitsu/video" class="mal-icon ml8 ga-click" title="Watch Episode Video"><i class="malicon malicon-movie-episode"></i></a></div></div><br><div class="information di-ib mt4">
         TV (22 eps)<br>
         Jan 2015 - Jun 2015<br>
-        2,138,584 members
+        2,138,720 members
       </div>    </div>
   </td>
 
@@ -1879,7 +1876,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
 <div class="di-ib clearfix"><h3 class="fl-l fs14 fw-b anime_ranking_h3"><a href="https://myanimelist.net/anime/30831/Kono_Subarashii_Sekai_ni_Shukufuku_wo" id="#area30831" rel="#info30831" class="hoverinfo_trigger">Kono Subarashii Sekai ni Shukufuku wo!</a></h3><div class="icon-watch2"><a href="https://myanimelist.net/anime/30831/Kono_Subarashii_Sekai_ni_Shukufuku_wo/video" class="mal-icon ml8 ga-click" title="Watch Episode Video"><i class="malicon malicon-movie-episode"></i></a></div></div><br><div class="information di-ib mt4">
         TV (10 eps)<br>
         Jan 2016 - Mar 2016<br>
-        2,081,297 members
+        2,081,412 members
       </div><div
   class="bookstore-information ga-impression"
    data-ga-impression-type="bs_animeR-desktop-rank"    data-ga-impression-param="2|e7e24b27-ef25-48a1-b25d-e65293e90b42" ><a
@@ -2033,7 +2030,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
 <div class="di-ib clearfix"><h3 class="fl-l fs14 fw-b anime_ranking_h3"><a href="https://myanimelist.net/anime/22535/Kiseijuu__Sei_no_Kakuritsu" id="#area22535" rel="#info22535" class="hoverinfo_trigger">Kiseijuu: Sei no Kakuritsu</a></h3><div class="icon-watch2"><a href="https://myanimelist.net/anime/22535/Kiseijuu__Sei_no_Kakuritsu/video" class="mal-icon ml8 ga-click" title="Watch Episode Video"><i class="malicon malicon-movie-episode"></i></a></div></div><br><div class="information di-ib mt4">
         TV (24 eps)<br>
         Oct 2014 - Mar 2015<br>
-        1,977,339 members
+        1,977,467 members
       </div><div
   class="bookstore-information ga-impression"
    data-ga-impression-type="bs_animeR-desktop-rank"    data-ga-impression-param="1|700" ><a
@@ -2294,7 +2291,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
 <div class="di-ib clearfix"><h3 class="fl-l fs14 fw-b anime_ranking_h3"><a href="https://myanimelist.net/anime/28223/Death_Parade" id="#area28223" rel="#info28223" class="hoverinfo_trigger">Death Parade</a></h3><div class="icon-watch2"><a href="https://myanimelist.net/anime/28223/Death_Parade/video" class="mal-icon ml8 ga-click" title="Watch Episode Video"><i class="malicon malicon-movie-episode"></i></a></div></div><br><div class="information di-ib mt4">
         TV (12 eps)<br>
         Jan 2015 - Mar 2015<br>
-        1,865,316 members
+        1,865,412 members
       </div>    </div>
   </td>
 
